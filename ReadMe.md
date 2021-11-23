@@ -8,6 +8,8 @@
 
 ![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Siniestros%202015-2020.png)
 
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Siniestros%20x%20localidad.png)
+
 # Descripción y motivación:
 
 Según cifras de la Secretaria de Movilidad de Bogotá entre 2015 y 2019 se presentaron en promedio 34 mil siniestros viales, lo que indica que cada 5 minutos ocurre un accidente en la ciudad (1). Esto representa un problema de salud pública para los gobiernos, pues según Fasecolda, en 2018 estos accidentes le costaron al Estado cerca de 3,6 billones de pesos (2). 
@@ -104,8 +106,6 @@ Algunas preguntas que motivaron el análisis hecho fueron:
 ### Suba
 
 ![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Suba.png)
-
-![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Siniestros%20x%20localidad.png)
 
 ![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Condicion.png)
 
