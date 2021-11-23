@@ -65,8 +65,6 @@ Algunas preguntas que motivaron el análisis hecho fueron:
 
 ## Población Bogotá 2019
 
-## Población Bogotá 2019
-
 ![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Poblacion2019.png)
 
 ## Accidentalidad Total Bogotá 2019
