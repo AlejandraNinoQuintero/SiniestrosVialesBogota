@@ -6,7 +6,7 @@
 #### Maestría en Economía de las Políticas Públicas
 #### Universidad del Rosario
 
-<img src ="Siniestros 2015-2020.png" alt="Elaboración propia" title="Siniestros 2015-2020" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Siniestros%202015-2020.png)
 
 # Descripción y motivación:
 
@@ -65,55 +65,55 @@ Algunas preguntas que motivaron el análisis hecho fueron:
 
 ## Población Bogotá 2019
 
-<img src ="PoblacionMenores2019.png" alt="Elaboración propia" title="PoblacionMenores2019" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Poblacion2019.png)
 
 ## Accidentalidad Total Bogotá 2019
 
-<img src ="AccidentalidadTotal2019.png" alt="Elaboración propia" title="AccidentalidadTotal2019" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/AccidentalidadTotal2019.png)
 
 ## Población Menores Bogotá 2019
 
-<img src ="PoblacionMenores2019.png" alt="Elaboración propia" title="PoblacionMenores2019" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/PoblacionMenores2019.png)
 
 ## Accidentalidad Menores Bogotá 2019
 
-<img src ="AccidentalidadMenores2019.png" alt="Elaboración propia" title="AccidentalidadMenores2019" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/3c578267a719df7841feafdbe809fbbd5ac3d133/Archivos%20para%20README/AccidentalidadMenores2019.png)
 
 ## Concentración Accidentes Menores 2019
 
-<img src ="ConcentracionAcc2019.png" alt="Elaboración propia" title="ConcentracionAcc2019" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/ConcentracionAcc2019.png)
 
 ## Áreas de Influencia
 
 ### Kennedy
 
-<img src ="Kennedy.png" alt="Elaboración propia" title="Kennedy" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Kennedy.png)
 
 ### Bosa
 
-<img src ="Bosa.png" alt="Elaboración propia" title="Bosa" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Bosa.png)
 
 ### Ciudad Bolivar
 
-<img src ="CiudadBolivar.png" alt="Elaboración propia" title="CiudadBolivar" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/CiudadBolivar.png)
 
 ### Engativá
 
-<img src ="Engativa.png" alt="Elaboración propia" title="Engativa" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Engativa.png)
 
 ### Suba
 
-<img src ="Suba.png" alt="Elaboración propia" title="Suba" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Suba.png)
 
-<img src ="Siniestros x localidad.png" alt="Elaboración propia" title="Siniestros x localidad" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Siniestros%20x%20localidad.png)
 
-<img src ="Condicion.png" alt="Elaboración propia" title="Condicion" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Condicion.png)
 
-<img src ="Gravedad.png" alt="Elaboración propia" title="Gravedad" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Gravedad.png)
 
-<img src ="Horas.png" alt="Elaboración propia" title="Horas" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/Horas.png)
 
-<img src ="genero.png" alt="Elaboración propia" title="genero" />
+![Image text](https://github.com/AlejandraNinoQuintero/SiniestrosVialesBogota/blob/main/Archivos%20para%20README/genero.png)
 
 #### Nota: Todas las gráficas y mapas son de elaboración propia
 
