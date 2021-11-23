@@ -60,7 +60,7 @@ Algunas preguntas que motivaron el análisis hecho fueron:
 2. Los accidentes que involucran menores de edad en 2019 se concentran principalmente en las localidades de Kennedy, Ciudad Bolívar, Bosa, Suba y Engativá – las cuales a su vez tienen la mayor población de menores. 
 3. En promedio el 33.7% de los accidentes de menores ocurren a 100 metros de colegios y el 63.2% a 200 metros de colegios en las localidades mencionadas. 
 4. Los menores accidentados son principalmente peatones o pasajeros. 
-5. Se evidencia una concentración de accidentes en la mayoría de localidades en horarios comprendidos entre la 1pm y las 7pm. 
+5. Se evidencia una concentración de accidentes en la mayoría de localidades en horarios comprendidos entre la 12pm y las 7pm. 
 6. En 15 de las 20 localidades más del 50% de los accidentados son hombres.
 
 ## Población Bogotá 2019
