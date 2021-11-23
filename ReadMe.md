@@ -117,7 +117,7 @@ Algunas preguntas que motivaron el análisis hecho fueron:
 
 #### Nota: Todas las gráficas y mapas son de elaboración propia
 
-### Link bases usadas: https://drive.google.com/drive/folders/1Mz7GfP7hHgp0EyCB4wO9ScJs01xixigz?usp=sharing 
+#### Link bases usadas: https://drive.google.com/drive/folders/1Mz7GfP7hHgp0EyCB4wO9ScJs01xixigz?usp=sharing 
 
 # Referencias: 
 (1) https://www.eltiempo.com/datos/cifras-de-accidentes-y-muertes-por-accidentes-de-transito-en-bogota-578915#:~:text=Las%20cifras%20de%20la%20Secretar%C3%ADa,fue%202015%2C%20con%2031.341%20casos.
