@@ -46,7 +46,7 @@ Algunas preguntas que motivaron el análisis hecho fueron:
         - Población de Bogotá (Secretaría Distrital de Planeación (7)) vs Accidentalidad total por localidad. De manera tal que se pueda evidenciar si hay mayor accidentalidad en localidades con más población (sería lo esperado) o si existe alguna localidad donde a pensar de tener menor población hay una alta accidentalidad. 
         - Población de menores (proyección para 2019 - Secretaría Distrital de Planeación (8)) para hacer una comparación similar a la anterior pero para la población estudiada. 
         - Concentración de accidentes: mapa de calor con los accidentes viales de menores geocodificados de la base manipulada en Python.
-        - Con el análisis anterior se pueden identificar las localidades con mayor accidentalidad de menores, así como concentración de zonas. Por lo cual para estas localidades se ubican los colegios (IDECA (9)) y se realizan áreas de influencia de estos colegios a 100 y 200 metros para identificar cuantos accidentes ocurren es este rango. 
+        - Con el análisis anterior se pueden identificar las localidades con mayor accidentalidad de menores, así como concentración de zonas. Por lo cual para estas localidades se ubican los colegios (SDP (9)) y se realizan áreas de influencia de estos colegios a 100 y 200 metros para identificar cuantos accidentes ocurren es este rango. 
         - Estas áreas de influencia se hacen mediante buffer, para que se vean bien visualmente se hace con la opción de disolver - los buffer se convierten en nuevas capas en polígono. 
         - Para calcular el núemro de accidentes en las áreas de influencia, los buffer tienen la opción de generar para cada buffer la intersección, creando capas transitorias (no se pueden guardar) con el sub grupo de accidentes que cumplen la condición. 
 <br>    
@@ -126,4 +126,4 @@ Algunas preguntas que motivaron el análisis hecho fueron:
 <br>(6) https://noticias.caracoltv.com/bogota/motociclista-murio-arrollado-por-culpa-de-un-hueco-en-vez-de-ayudarlo-lo-robaron-al-verlo-herido 
 <br>(7)https://sdpbogota.maps.arcgis.com/apps/MapSeries/index.html?appid=baabe888c3ab42c6bb3d10d4eaa993c5
 <br>(8)http://www.sdp.gov.co/sites/default/files/boletin69.pdf 
-<br>(9)https://www.ideca.gov.co/recursos/mapas/colegios-bogota-dc-ano-2020 
+<br>(9)Secretaría Distrital de Planeación 2021 
